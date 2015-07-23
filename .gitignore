@@ -1,0 +1,15 @@
+# yeoman
+
+node_modules
+dist
+.tmp
+.sass-cache
+bower_components
+test/bower_components
+
+# sublime
+
+*.sublime-workspace
+*.sublime-project
+
+osc-emitter*
